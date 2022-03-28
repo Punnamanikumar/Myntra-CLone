@@ -69,7 +69,7 @@ const Footer = () => {
         </p>
         <hr />
         <center className="que2">
-          © 2022 www.myntra.comnpm All rights reserved.
+          © 2022 www.myntra.com All rights reserved.
         </center>
         <hr />
       </div>
